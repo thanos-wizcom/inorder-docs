@@ -18,4 +18,4 @@ seo:
 
 ## Νέα εγκατάσταση SQL Server stand-alone
 
-![SQL Server stand-alone](/img/sql-setup-sa-1.png "SQL Server stand-alone")
+<!-- ![SQL Server stand-alone](/img/sql-setup-sa-1.png "SQL Server stand-alone") -->
