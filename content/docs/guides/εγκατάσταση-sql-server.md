@@ -13,9 +13,10 @@ seo:
   description: Εγκατάσταση SQL Server
   canonical: Εγκατάσταση SQL Server
 ---
-
 Η εγκατάσταση του Microsoft SQL Server αποτελεί ένα κρίσιμο βήμα για τη δημιουργία μιας ισχυρής και αξιόπιστης πλατφόρμας διαχείρισης δεδομένων. Ο SQL Server είναι ένα προηγμένο εργαλείο που χρησιμοποιείται ευρέως για την αποθήκευση, οργάνωση και ανάκτηση δεδομένων.
 
 ## Νέα εγκατάσταση SQL Server stand-alone
 
-<!-- ![SQL Server stand-alone](/img/sql-setup-sa-1.png "SQL Server stand-alone") -->
+<!-- !\[SQL Server stand-alone](/img/sql-setup-sa-1.png "SQL Server stand-alone") -->
+
+![test](/img/22.jpg "test")
